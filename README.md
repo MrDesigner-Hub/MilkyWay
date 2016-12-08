@@ -1,6 +1,4 @@
 # MilkyWay
 <title>MilkyWayGalaxy<title>
 The MilkyWay GALAXY
-<a href="https://en.wikipedia.org/wiki/Milky_Way">contact</a>
-The Milky Way is the galaxy that contains our Solar System. Its name "milky" is derived from its appearance as a dim glowing band arching across the night sky whose individual stars cannot be distinguished by the naked eye. The term "Milky Way" is a translation of the Latin via lactea, from the Greek γαλαξίας κύκλος (galaxías kýklos, "milky circle"). From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within. Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe. Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis,[24] observations by Edwin Hubble showed that the Milky Way is just one of many galaxies. Subsequent sensitive observations such as the Hubble telescope's Ultra Deep Field revealed a myriad of faint galaxies, which led to an estimate that the observable universe contained about 200 billion galaxies.[25][26] A 2016 study estimated that the observable universe contained ten times that number or 2 trillion galaxies.
 
